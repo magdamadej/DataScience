@@ -1,0 +1,1 @@
+# Nauka biblioteki NumPy
