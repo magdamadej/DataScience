@@ -1,1 +1,1 @@
-# Nauka biblioteki NumPy
+# Python - analiza danych
